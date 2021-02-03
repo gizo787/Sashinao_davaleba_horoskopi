@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "173003467791",
+    "project_id": "horoscope-64caa",
+    "storage_bucket": "horoscope-64caa.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:173003467791:android:3ed547d9c2b6d764e5877a",
+        "android_client_info": {
+          "package_name": "com.example.davalebahoroscope"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "173003467791-7l49q16h0gf38gq2vanuap43t5ecegus.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDH5MGAq4ixdEpba7u90qrECyRzjB50R84"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "173003467791-7l49q16h0gf38gq2vanuap43t5ecegus.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

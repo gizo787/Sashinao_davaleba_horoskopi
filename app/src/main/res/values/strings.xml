@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">DavalebaHoroscope</string>
+    <string name="regPageTitle">გაიარეთ რეგისტრაცია</string>
+    <string name="emailHint">ელ.ფოსტა</string>
+    <string name="pwdHint">პაროლი</string>
+    <string name="register">რეგისტრაცია</string>
+    <string name="login">ავტორიზაცია</string>
+    <string name="or">ან</string>
+    <string name="loginPageTitle">სისტემაში შესვლა</string>
+    <string name="goback">უკან დაბრუნება</string>
+    <string name="signOutButton">უკან დაბრუნება</string>
+    <string name="ukan">უკან დაბრუნება</string>
+    <string name="ukanhint">უკან დაბრუნება</string>
+    <string name="mshhint">მშვილდოსანი,ვერძი,ტყუპევი</string>
+    <string name="txahint">თხის რქა,თევზები,ლომი</string>
+    <string name="qalhint">ქალწული,სასწორი,კურო</string>
+    <string name="kirhint">კირჩხიბი,მერწყული,მორიელი</string>
+
+</resources>
